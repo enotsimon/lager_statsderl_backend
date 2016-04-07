@@ -1,0 +1,6 @@
+{application, lager_statsderl_backend, [
+	{description, "backend for erlang basho lager (https://github.com/basho/lager) that sends count of lager events to StatsD using statsderl"},
+	{vsn, "0.0.1"},
+	{applications, [kernel, stdlib]},
+	{env, []}
+]}.
