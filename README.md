@@ -1,6 +1,6 @@
 # lager_statsderl_backend
 
-## overwiev
+## overview
 
 backend for erlang basho lager (https://github.com/basho/lager) that sends count of lager events to StatsD using statsderl
 
